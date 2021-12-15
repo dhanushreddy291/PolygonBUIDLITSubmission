@@ -1,13 +1,11 @@
 # Welcome to The Pokeball NFT Collection 💎
 
-![](https://github.com/The-Stripes-NFT/nft-minting-app/blob/main/logo-blob.png)
+![](https://github.com/dhanushreddy291/PolygonBUIDLITSubmission/blob/main/logo-blob.png)
 
-All the code in these repos was created and explained by HashLips on the main YouTube channel.
+# The Pokeball NFT Minting dapp 🔥
 
-To find out more please visit:
+To connect with me please visit:
 
 [🐦 Twitter](https://twitter.com/dhanushreddy291)
 
 [ℹ️ Website](https://thestripesnft.com/)
-
-# The Pokeball NFT Minting dapp 🔥
