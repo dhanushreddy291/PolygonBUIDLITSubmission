@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x60474d99a30870887C8A2684413Af695470e9A00",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/token/0x60474d99a30870887C8A2684413Af695470e9A00",
+  "NETWORK": {
+    "NAME": "Polygon Mumbai",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "The Pokeball NFT Collection",
+  "SYMBOL": "PKBALL",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 500000000000000000,
+  "DISPLAY_COST": 0.5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/the-pokeball-nft-collection",
+  "SHOW_BACKGROUND": true
+}
